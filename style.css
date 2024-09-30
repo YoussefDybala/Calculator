@@ -35,7 +35,7 @@
 }
 @media (max-width :768px) {
     .containar .calculator {
-        width: 310px;
+        width: 300px;
     }
     .containar .calculator input {
         border: 0;
